@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnisBouhadida
 - 👀 I’m interested in Fullstack development using Java (spring) and Angular
 - 🌱 I’m currently learning Clarity design system, Java performance and more about software craftsmanship  
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/anis-bouhadida)
 
 <!---
